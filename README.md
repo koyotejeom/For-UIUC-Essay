@@ -1,2 +1,2 @@
 # For-UIUC-Essay
-UIUC ESSAY에 작서에 사용할 프로그램
+UIUC 편입 에세이 작성에 사용할 코드
